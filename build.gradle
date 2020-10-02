@@ -1,5 +1,5 @@
 ext {
-    API_KEY = '6e1936e08a5441e1aeca48da9d8ad505'
+    API_KEY = '<YOUR_API_KEY_HERE>'  //Example - '6e1936e08a5441e1aeca48da9d8ad505'
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {

@@ -1,0 +1,2 @@
+rootProject.name='NLP_QNA_System'
+include ':app'
